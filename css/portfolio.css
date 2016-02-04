@@ -1,0 +1,21 @@
+.avatar{
+  height: 250px;
+  border-radius: 50%;
+  float: left;
+}
+
+.contact-data{
+  padding-top: 10px;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 70px;
+}
+
+.resume {
+  padding-top: 200px;
+}
+nav{
+
+}
